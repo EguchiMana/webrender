@@ -12,6 +12,10 @@
     "babel-loader": "^8.2.2",
     "webpack-cli": "3.3.12"
   },
+  "engines": {
+  "node": "16.13.2"
+},
+
   "version": "0.1.0",
   "devDependencies": {
     "@babel/plugin-proposal-private-methods": "^7.18.6",
